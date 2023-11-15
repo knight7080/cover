@@ -114,8 +114,8 @@ div{
 ```
 
 ## OUTPUT:
-![Alt text](image.png)
-![Alt text](image-1.png)
+![image](https://github.com/knight7080/cover/assets/88542035/b6f49be6-842e-4a46-9104-e07712518a57)
+![image](https://github.com/knight7080/cover/assets/88542035/6af4a650-b7c9-43ed-9903-e3d0cfe5798e)
 
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
